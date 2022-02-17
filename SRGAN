@@ -1,4 +1,5 @@
 https://github.com/leftthomas/SRGAN/blob/master/train.py
+https://www.kaggle.com/joe1995/div2k-dataset(데이터셋)
 
 import argparse
 import os
